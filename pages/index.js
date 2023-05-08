@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import Layout from '../components/layout';
 import styles from '../styles/grid.module.css';
 import Guitarra from '../components/guitarra';
